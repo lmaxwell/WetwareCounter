@@ -1,0 +1,101 @@
+CHUCK RACKS DOCUMENTATION
+for alpha 1.0
+
+TO INSTALL: drag ChuckRacks.vst to your VST folder
+(usually HD/Library/Audio/Plug-Ins/VST or HD/Users/Username/Library/Audio/Plug-Ins/VST)
+
+
+use  ‘adc =>’ to get audio from the host channel into chuck
+
+printing to console using <<< >>> doesn’t work yet.
+
+Because of the design of ChucK, running more than 1 instance is impossible. 
+Trying to will give you a warning. This will fixed in a future update after
+the internal structure of ChucK is changed.
+
+
+FUNCTIONS:
+
+float PluginHost.getTempo()
+-Returns current tempo in BPM
+
+Event PluginHost.onPlay()
+-Returns an event when play button is pressed
+
+Event PluginHost.onStop()
+-Returns an event when the stop button is pressed
+       
+Event PluginHost.nextBar()
+-Returns an event when a new bar starts
+
+Event PluginHost.nextSixteenth()
+-Returns an event at the beginning of each 16th note
+
+Event PluginHost.nextEighth()
+-Returns an event at the beginning of some eighth notes (TODO needs a better description)
+
+Event PluginHost.nextQuarter()
+-Returns an event at the beginning of each quarter note
+
+dur PluginHost.wholeDur()
+-Returns the duration of a whole note calculated at the current tempo
+    
+dur PluginHost.halfDur()
+-Returns the duration of a half note calculated at the current tempo
+
+dur PluginHost.quarterDur()
+-Returns the duration of a quarter note calculated at the current tempo
+
+dur PluginHost.eighthDur()
+-Returns the duration of an eighth note calculated at the current tempo
+
+dur PluginHost.sixteenthDur()
+-Returns the duration of a sixteenth note calculated at the current tempo
+
+int PluginHost.isPlaying()
+-Returns a 1 if the host is playing. Otherwise it returns 0.
+
+float PluginHost.posInBeat()
+-Returns a value between 0 and 0.9999 for the position in the beat. It can be used for finer subdivisions than 16ths.
+
+float PluginHost.posInBar()
+-Returns a value between 0 and the number of quarters in the signature (0.0 - 3.999 in 4/4) for the position in the bar. 
+
+float PluginHost.pos()
+-Returns the position of the playhead in the transport in quarter notes
+
+float PluginHost.posLastBarStart()
+-Returns the position in quarter notes of the last bar that started
+
+int PluginHost.timeSigUpper()
+-Returns the number of beats in a bar in current time signature (3 in 3/4)  
+
+int PluginHost.timeSigLower()
+-Returns the note value of one beat in current time signature (the beat unit, 4 in 3/4)
+
+Event PluginHost.onMidi()
+-Returns an event when a midi message is received from host.
+
+int PluginHost.recvMidi(MidiMsg msg)
+-Used to receive midi messages from host. Returns a 1 if message was received. 
+Example:
+	MidiMsg msg;
+
+	while(true)
+	{
+    		PluginHost.onMidi() => now;
+    		while(PluginHost.recvMidi(msg))
+    		{
+        		<<< msg.data1, msg.data2, msg.data3 >>>;
+    		}
+	}
+
+
+float PluginParameters.getValue( string parameterName )
+-returns a value between 0 and 1 from a plugin parameter
+-to use this you have to create a parameter using the arrow on the top right of the plugin window. You have to open the parameter “configure” options in your DAW’s plugin instance. While that’s open press the “map” button next to your created parameter. Alternatively you can name the parameter while “configure” is open. 
+
+if you have questions contact me at rodrigosena@alum.calarts.edu
+
+
+    

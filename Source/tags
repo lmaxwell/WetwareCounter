@@ -1,0 +1,541 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APPVIEWMODE_H_INCLUDED	AppViewMode.h	/^#define APPVIEWMODE_H_INCLUDED$/;"	d
+AppViewMode	AppViewMode.h	/^enum AppViewMode{$/;"	g
+CK_DLL_SFUN	ulib_PluginParameters.cpp	/^CK_DLL_SFUN(pluginParameters_getValue)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_eighth)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_eighthDur)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_eighthLength)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_getTempo)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_halfDur)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_isPlaying)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_lastBarPosition)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_nextBar)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_onMidi)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_onPlay)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_onStop)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_position)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_positionInBar)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_positionInBeat)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_quarter)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_quarterDur)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_quarterLength)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_recvMidi)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_sendMidi)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_setTempo)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_sixteenth)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_sixteenthDur)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_sixteenthLength)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_timeSigDenominator)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_timeSigNumerator)$/;"	f
+CK_DLL_SFUN	ulib_pluginhost.cpp	/^CK_DLL_SFUN(pluginhost_wholeDur)$/;"	f
+CODEDOCUMENTMANAGERCOMPONENT_H_INCLUDED	ChuckCodeManagerComponent.h	/^#define CODEDOCUMENTMANAGERCOMPONENT_H_INCLUDED$/;"	d
+CONSOLECOMPONENT_H_INCLUDED	ConsoleComponent.h	/^#define CONSOLECOMPONENT_H_INCLUDED$/;"	d
+CRTABBEDCOMPONENTLISTENER_H_INCLUDED	CRTabbedComponentListener.h	/^#define CRTABBEDCOMPONENTLISTENER_H_INCLUDED$/;"	d
+CRTABBEDCOMPONENT_H_INCLUDED	CRTabbedComponent.h	/^#define CRTABBEDCOMPONENT_H_INCLUDED$/;"	d
+CRTabbedComponent	CRTabbedComponent.cpp	/^CRTabbedComponent::CRTabbedComponent() : TabbedComponent(TabbedButtonBar::Orientation::TabsAtTop)$/;"	f	class:CRTabbedComponent
+CRTabbedComponent	CRTabbedComponent.h	/^class CRTabbedComponent : public TabbedComponent$/;"	c
+CRTabbedComponentListener	CRTabbedComponentListener.h	/^    CRTabbedComponentListener(){};$/;"	f	class:CRTabbedComponentListener
+CRTabbedComponentListener	CRTabbedComponentListener.h	/^class CRTabbedComponentListener{$/;"	c
+ChuckCodeComponent	ChuckCodeComponent.cpp	/^ChuckCodeComponent::ChuckCodeComponent(ChuckCodeModel* chuckCodeModel)$/;"	f	class:ChuckCodeComponent
+ChuckCodeComponent	ChuckCodeComponent.h	/^class ChuckCodeComponent : public Component,$/;"	c
+ChuckCodeManagerComponent	ChuckCodeManagerComponent.cpp	/^ChuckCodeManagerComponent::ChuckCodeManagerComponent(ChuckCodeModelManager* modelManager)    \/\/:$/;"	f	class:ChuckCodeManagerComponent
+ChuckCodeManagerComponent	ChuckCodeManagerComponent.h	/^class ChuckCodeManagerComponent :   public Component,$/;"	c
+ChuckCodeModel	ChuckCodeModel.cpp	/^ChuckCodeModel::ChuckCodeModel(chuck_inst* ck_,$/;"	f	class:ChuckCodeModel
+ChuckCodeModel	ChuckCodeModel.h	/^class ChuckCodeModel$/;"	c
+ChuckCodeModelManager	ChuckCodeModelManager.cpp	/^ChuckCodeModelManager::ChuckCodeModelManager( chuck_inst* ck_, AudioProcessor* p_)$/;"	f	class:ChuckCodeModelManager
+ChuckCodeModelManager	ChuckCodeModelManager.h	/^class ChuckCodeModelManager$/;"	c
+ChuckRacksAudioProcessor	PluginProcessor.cpp	/^ChuckRacksAudioProcessor::ChuckRacksAudioProcessor()$/;"	f	class:ChuckRacksAudioProcessor
+ChuckRacksAudioProcessor	PluginProcessor.h	/^class ChuckRacksAudioProcessor  : public AudioProcessor$/;"	c
+ChuckRacksAudioProcessorEditor	PluginEditor.cpp	/^ChuckRacksAudioProcessorEditor::ChuckRacksAudioProcessorEditor (ChuckRacksAudioProcessor* ownerFilter)$/;"	f	class:ChuckRacksAudioProcessorEditor
+ChuckRacksAudioProcessorEditor	PluginEditor.h	/^class ChuckRacksAudioProcessorEditor  : public AudioProcessorEditor,$/;"	c
+ChuckRacks_KnobInfo_h	KnobInfo.h	/^#define ChuckRacks_KnobInfo_h$/;"	d
+ChuckTokeniser	ChuckTokeniser.cpp	/^ChuckTokeniser::ChuckTokeniser() {}$/;"	f	class:ChuckTokeniser
+ChuckTokeniser	ChuckTokeniser.h	/^class ChuckTokeniser : public CodeTokeniser$/;"	c
+ChuckTokeniserFunctions	ChuckTokeniser.cpp	/^struct ChuckTokeniserFunctions$/;"	s	file:
+CodeEditorDemo	CodeEditorD.h	/^    CodeEditorDemo()$/;"	f	class:CodeEditorDemo
+CodeEditorDemo	CodeEditorD.h	/^class CodeEditorDemo  : public Component,$/;"	c
+CodeEditorDemo	CodeEditorDemo.h	/^    CodeEditorDemo()$/;"	f	class:CodeEditorDemo
+CodeEditorDemo	CodeEditorDemo.h	/^class CodeEditorDemo  : public Component,$/;"	c
+ConsoleComponent	ConsoleComponent.cpp	/^ConsoleComponent::ConsoleComponent(){$/;"	f	class:ConsoleComponent
+ConsoleComponent	ConsoleComponent.cpp	/^juce_ImplementSingleton (ConsoleComponent);$/;"	v
+ConsoleComponent	ConsoleComponent.h	/^class ConsoleComponent :    public Component$/;"	c
+ConsoleGlobal	ConsoleGlobal.cpp	/^ConsoleGlobal::ConsoleGlobal(){$/;"	f	class:ConsoleGlobal
+ConsoleGlobal	ConsoleGlobal.h	/^class ConsoleGlobal : public Component$/;"	c
+ConsoleGlobal_hpp	ConsoleGlobal.h	/^#define ConsoleGlobal_hpp$/;"	d
+Counter	Counter.cpp	/^Counter::Counter()$/;"	f	class:Counter
+Counter	Counter.h	/^class Counter$/;"	c
+Counter_hpp	Counter.h	/^#define Counter_hpp$/;"	d
+CustomLookAndFeel	CustomLookAndFeel.cpp	/^CustomLookAndFeel::CustomLookAndFeel()$/;"	f	class:CustomLookAndFeel
+CustomLookAndFeel	CustomLookAndFeel.h	/^class CustomLookAndFeel : public LookAndFeel_V3$/;"	c
+Defines_h	Defines.h	/^#define Defines_h$/;"	d
+EDITORPANELUI_H_INCLUDED	EditorPanelUI.h	/^#define EDITORPANELUI_H_INCLUDED$/;"	d
+EditableTextCustomComponent	ParameterMapUI.h	/^    EditableTextCustomComponent (ParameterMapUI& pm)  : owner (pm),$/;"	f	class:EditableTextCustomComponent
+EditableTextCustomComponent	ParameterMapUI.h	/^class EditableTextCustomComponent  : public Label$/;"	c
+EditorPanelUI	EditorPanelUI.cpp	/^EditorPanelUI::EditorPanelUI(ChuckCodeModelManager* modelManager):$/;"	f	class:EditorPanelUI
+EditorPanelUI	EditorPanelUI.h	/^class EditorPanelUI    : public Component$/;"	c
+FLOATPARAMETER_H_INCLUDED	FloatParameter.h	/^#define FLOATPARAMETER_H_INCLUDED$/;"	d
+FileManager	FileManager.cpp	/^FileManager::FileManager()$/;"	f	class:FileManager
+FileManager	FileManager.h	/^class FileManager$/;"	c
+FilenameComponentExtra	FilenameComponentExtra.cpp	/^FilenameComponentExtra::FilenameComponentExtra (const String& name,$/;"	f	class:FilenameComponentExtra
+FilenameComponentExtra	FilenameComponentExtra.h	/^class FilenameComponentExtra  : public Component,$/;"	c
+FloatParameter	FloatParameter.cpp	/^FloatParameter::FloatParameter( String parameterID, String name,$/;"	f	class:FloatParameter
+FloatParameter	FloatParameter.h	/^class FloatParameter : public AudioProcessorParameterWithID$/;"	c
+Instance	ConsoleGlobal.h	/^    static ConsoleGlobal * Instance()$/;"	f	class:ConsoleGlobal
+KnobInfo	KnobInfo.h	/^    KnobInfo():value01(0.5),type(linear) {};$/;"	f	struct:KnobInfo
+KnobInfo	KnobInfo.h	/^struct KnobInfo$/;"	s
+LookAndFeelMethods	FilenameComponentExtra.h	/^    struct JUCE_API  LookAndFeelMethods$/;"	s	class:FilenameComponentExtra
+MainViewComponent	MainViewComponent.cpp	/^MainViewComponent::MainViewComponent(ChuckRacksAudioProcessor* processor_) :$/;"	f	class:MainViewComponent
+MainViewComponent	MainViewComponent.h	/^class MainViewComponent : public Component$/;"	c
+PARAMETERMAPUI_H_INCLUDED	ParameterMapUI.h	/^#define PARAMETERMAPUI_H_INCLUDED$/;"	d
+PLUGINEDITOR_H_INCLUDED	PluginEditor.h	/^#define PLUGINEDITOR_H_INCLUDED$/;"	d
+PLUGINPROCESSOR_H_INCLUDED	PluginProcessor.h	/^#define PLUGINPROCESSOR_H_INCLUDED$/;"	d
+ParameterMapUI	ParameterMapUI.cpp	/^ParameterMapUI::ParameterMapUI(AudioProcessor* processor_) : numRows(0)$/;"	f	class:ParameterMapUI
+ParameterMapUI	ParameterMapUI.h	/^class ParameterMapUI :  public Component,$/;"	c
+PluginHostInfo	ulib_pluginhost.cpp	/^PluginHostInfo::PluginHostInfo()$/;"	f	class:PluginHostInfo
+PluginHostInfo	ulib_pluginhost.h	/^class PluginHostInfo$/;"	c
+PluginParameters	ulib_PluginParameters.cpp	/^PluginParameters::PluginParameters()$/;"	f	class:PluginParameters
+PluginParameters	ulib_PluginParameters.h	/^class PluginParameters$/;"	c
+RackView	AppViewMode.h	/^    RackView$/;"	e	enum:AppViewMode
+SynthCode	SynthCode.h	/^class SynthCode$/;"	c
+TabView	AppViewMode.h	/^    TabView = 0,$/;"	e	enum:AppViewMode
+TokenType	ChuckTokeniser.h	/^    enum TokenType$/;"	g	class:ChuckTokeniser
+__ChuckRacks__ChuckCodeModelManager__	ChuckCodeModelManager.h	/^#define __ChuckRacks__ChuckCodeModelManager__$/;"	d
+__ChuckRacks__ChuckCodeModel__	ChuckCodeModel.h	/^#define __ChuckRacks__ChuckCodeModel__$/;"	d
+__ChuckRacks__ChuckTokeniser__	ChuckTokeniser.h	/^#define __ChuckRacks__ChuckTokeniser__$/;"	d
+__ChuckRacks__CustomLookAndFeel__	CustomLookAndFeel.h	/^#define __ChuckRacks__CustomLookAndFeel__$/;"	d
+__ChuckRacks__FileContainerUI__	ChuckCodeComponent.h	/^#define __ChuckRacks__FileContainerUI__$/;"	d
+__ChuckRacks__FileManager__	FileManager.h	/^#define __ChuckRacks__FileManager__$/;"	d
+__ChuckRacks__FilenameComponentExtra__	FilenameComponentExtra.h	/^#define __ChuckRacks__FilenameComponentExtra__$/;"	d
+__ChuckRacks__MainViewComponent__	MainViewComponent.h	/^#define __ChuckRacks__MainViewComponent__$/;"	d
+__ChuckRacks__ulib_PluginParameters__	ulib_PluginParameters.h	/^#define __ChuckRacks__ulib_PluginParameters__$/;"	d
+__chuck_vst__ulib_pluginhost__	ulib_pluginhost.h	/^#define __chuck_vst__ulib_pluginhost__$/;"	d
+acceptsMidi	PluginProcessor.cpp	/^bool ChuckRacksAudioProcessor::acceptsMidi() const$/;"	f	class:ChuckRacksAudioProcessor
+active	KnobInfo.h	/^    bool active;$/;"	m	struct:KnobInfo
+addAllShreds	ChuckCodeModelManager.cpp	/^void ChuckCodeModelManager::addAllShreds()$/;"	f	class:ChuckCodeModelManager
+addAllShredsButton	PluginEditor.h	/^    ScopedPointer<DrawableButton> addAllShredsButton;$/;"	m	class:ChuckRacksAudioProcessorEditor
+addFileContainer	ChuckCodeModelManager.cpp	/^ChuckCodeModel* ChuckCodeModelManager::addFileContainer()$/;"	f	class:ChuckCodeModelManager
+addListener	CRTabbedComponent.h	/^    void addListener(CRTabbedComponentListener* comp){listeners.add(comp);};$/;"	f	class:CRTabbedComponent
+addListener	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::addListener (FilenameComponentListener* const listener)$/;"	f	class:FilenameComponentExtra
+addNewButton	ParameterMapUI.h	/^    ScopedPointer<DrawableButton> addNewButton;$/;"	m	class:ParameterMapUI
+addNewChuckCodeComponent	ChuckCodeManagerComponent.cpp	/^void ChuckCodeManagerComponent::addNewChuckCodeComponent(ChuckCodeModel* chuckCodeModel){$/;"	f	class:ChuckCodeManagerComponent
+addNewChuckCodeComponent	EditorPanelUI.cpp	/^void EditorPanelUI::addNewChuckCodeComponent(ChuckCodeModel* chuckCodeModel){$/;"	f	class:EditorPanelUI
+addNewChuckCodeComponent	MainViewComponent.cpp	/^void MainViewComponent::addNewChuckCodeComponent(ChuckCodeModel* chuckCodeModel){$/;"	f	class:MainViewComponent
+addNewFileContainerButton	PluginEditor.h	/^    ScopedPointer<DrawableButton> addNewFileContainerButton;$/;"	m	class:ChuckRacksAudioProcessorEditor
+addRecentlyUsedFile	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::addRecentlyUsedFile (const File& file)$/;"	f	class:FilenameComponentExtra
+addRow	ParameterMapUI.cpp	/^void ParameterMapUI::addRow(){$/;"	f	class:ParameterMapUI
+addShred	ChuckCodeModel.cpp	/^void ChuckCodeModel::addShred()$/;"	f	class:ChuckCodeModel
+addShredButton	ChuckCodeComponent.h	/^    ScopedPointer<DrawableButton> addShredButton;$/;"	m	class:ChuckCodeComponent
+addShredWithCode	ChuckCodeModel.cpp	/^void ChuckCodeModel::addShredWithCode(String code)$/;"	f	class:ChuckCodeModel
+addText	ConsoleComponent.cpp	/^void ConsoleComponent::addText( String text )$/;"	f	class:ConsoleComponent
+addText	ConsoleGlobal.cpp	/^void ConsoleGlobal::addText( String text )$/;"	f	class:ConsoleGlobal
+beatsPerMeasure	ulib_pluginhost.h	/^    int beatsPerMeasure;$/;"	m	class:PluginHostInfo
+broadcastEighthHit	ulib_pluginhost.cpp	/^void PluginHostInfo::broadcastEighthHit()$/;"	f	class:PluginHostInfo
+broadcastMidiEvent	ulib_pluginhost.cpp	/^void PluginHostInfo::broadcastMidiEvent()$/;"	f	class:PluginHostInfo
+broadcastNextBarEvent	ulib_pluginhost.cpp	/^void PluginHostInfo::broadcastNextBarEvent()$/;"	f	class:PluginHostInfo
+broadcastPlayEvent	ulib_pluginhost.cpp	/^void PluginHostInfo::broadcastPlayEvent()$/;"	f	class:PluginHostInfo
+broadcastQuarterHit	ulib_pluginhost.cpp	/^void PluginHostInfo::broadcastQuarterHit()$/;"	f	class:PluginHostInfo
+broadcastSixteenthHit	ulib_pluginhost.cpp	/^void PluginHostInfo::broadcastSixteenthHit()$/;"	f	class:PluginHostInfo
+broadcastStopEvent	ulib_pluginhost.cpp	/^void PluginHostInfo::broadcastStopEvent()$/;"	f	class:PluginHostInfo
+browseButtonText	FilenameComponentExtra.h	/^    String wildcard, enforcedSuffix, browseButtonText;$/;"	m	class:FilenameComponentExtra
+browseCodeButton	ChuckCodeComponent.h	/^    ScopedPointer<TextButton> browseCodeButton;$/;"	m	class:ChuckCodeComponent
+browseCodeButton	PluginEditor.h	/^    ScopedPointer<TextButton> browseCodeButton;$/;"	m	class:ChuckRacksAudioProcessorEditor
+browseOpenButton	FilenameComponentExtra.h	/^    ScopedPointer<Button> browseOpenButton;$/;"	m	class:FilenameComponentExtra
+browseSaveAsButton	FilenameComponentExtra.h	/^    ScopedPointer<Button> browseSaveAsButton;$/;"	m	class:FilenameComponentExtra
+buttonClicked	ChuckCodeComponent.cpp	/^void ChuckCodeComponent::buttonClicked(Button *buttonThatWasPressed)$/;"	f	class:ChuckCodeComponent
+buttonClicked	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::buttonClicked (Button*)$/;"	f	class:FilenameComponentExtra
+buttonClicked	ParameterMapUI.cpp	/^void ParameterMapUI::buttonClicked (Button* buttonThatWasClicked){$/;"	f	class:ParameterMapUI
+buttonClicked	PluginEditor.cpp	/^void ChuckRacksAudioProcessorEditor::buttonClicked(Button *buttonThatWasPressed)$/;"	f	class:ChuckRacksAudioProcessorEditor
+canBeEdited	ChuckCodeModel.h	/^    bool canBeEdited;$/;"	m	class:ChuckCodeModel
+changeProgramName	PluginProcessor.cpp	/^void ChuckRacksAudioProcessor::changeProgramName (int index, const String& newName)$/;"	f	class:ChuckRacksAudioProcessor
+chuckCodeComponents	ChuckCodeManagerComponent.h	/^    Array<ChuckCodeComponent*> chuckCodeComponents;$/;"	m	class:ChuckCodeManagerComponent
+chuckCodeModelCollection	ChuckCodeModelManager.h	/^    std::map<int, ChuckCodeModel*> chuckCodeModelCollection;$/;"	m	class:ChuckCodeModelManager
+chuckCodeModelManager	PluginProcessor.h	/^    ChuckCodeModelManager*  chuckCodeModelManager;$/;"	m	class:ChuckRacksAudioProcessor
+chuckCodeModelManager	ulib_PluginParameters.h	/^    ScopedPointer<ChuckCodeModelManager> chuckCodeModelManager;$/;"	m	class:PluginParameters
+ck	ChuckCodeModel.h	/^    chuck_inst *ck;$/;"	m	class:ChuckCodeModel
+ck	ChuckCodeModelManager.h	/^    chuck_inst* ck;$/;"	m	class:ChuckCodeModelManager
+ck	PluginProcessor.h	/^    chuck_inst *ck;$/;"	m	class:ChuckRacksAudioProcessor
+ckTokeniser	ChuckCodeComponent.h	/^    ChuckTokeniser ckTokeniser;$/;"	m	class:ChuckCodeComponent
+ckTokeniser	CodeEditorDemo.h	/^ChuckTokeniser ckTokeniser;$/;"	m	class:CodeEditorDemo
+code	SynthCode.h	/^    String code="class EuclidSeq{\\n"$/;"	m	class:SynthCode
+codeDocument	ChuckCodeModel.h	/^    CodeDocument codeDocument;$/;"	m	class:ChuckCodeModel
+codeDocument	CodeEditorD.h	/^    CodeDocument codeDocument;$/;"	m	class:CodeEditorDemo
+codeDocument	CodeEditorDemo.h	/^CodeDocument codeDocument;$/;"	m	class:CodeEditorDemo
+codeDocument	FileManager.h	/^    CodeDocument codeDocument;$/;"	m	class:FileManager
+codeEditor	ChuckCodeComponent.h	/^    ScopedPointer<CodeEditorComponent> codeEditor;$/;"	m	class:ChuckCodeComponent
+codeManagerComponent	EditorPanelUI.h	/^    ChuckCodeManagerComponent codeManagerComponent;$/;"	m	class:EditorPanelUI
+columnId	ParameterMapUI.h	/^    int row, columnId;$/;"	m	class:EditableTextCustomComponent
+comboBoxChanged	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::comboBoxChanged (ComboBox*)$/;"	f	class:FilenameComponentExtra
+consoleComponent	ChuckCodeModel.h	/^    ConsoleComponent* consoleComponent;$/;"	m	class:ChuckCodeModel
+consoleComponent	ConsoleGlobal.h	/^    TextEditor * consoleComponent;$/;"	m	class:ConsoleGlobal
+consoleComponent	EditorPanelUI.h	/^    ScopedPointer<TextEditor> consoleComponent;$/;"	m	class:EditorPanelUI
+consoleContrainer	ConsoleGlobal.h	/^    ScopedPointer<ComponentBoundsConstrainer> consoleContrainer;$/;"	m	class:ConsoleGlobal
+consoleEditor	ConsoleComponent.h	/^    TextEditor* consoleEditor;$/;"	m	class:ConsoleComponent
+consoleResizer	ConsoleGlobal.h	/^    ScopedPointer<ResizableEdgeComponent> consoleResizer;$/;"	m	class:ConsoleGlobal
+cppTokeniser	CodeEditorD.h	/^    CPlusPlusCodeTokeniser cppTokeniser;$/;"	m	class:CodeEditorDemo
+createEditor	PluginProcessor.cpp	/^AudioProcessorEditor* ChuckRacksAudioProcessor::createEditor()$/;"	f	class:ChuckRacksAudioProcessor
+createFocusTraverser	FilenameComponentExtra.cpp	/^KeyboardFocusTraverser* FilenameComponentExtra::createFocusTraverser()$/;"	f	class:FilenameComponentExtra
+createPluginFilter	PluginProcessor.cpp	/^AudioProcessor* JUCE_CALLTYPE createPluginFilter()$/;"	f
+currentBeat	ulib_pluginhost.h	/^    int currentBeat;$/;"	m	class:PluginHostInfo
+currentSixteenth	ulib_pluginhost.h	/^    int currentSixteenth;$/;"	m	class:PluginHostInfo
+customClasses	ChuckTokeniser.cpp	/^static const char* const customClasses[] =$/;"	v	file:
+decrementCount	Counter.cpp	/^void Counter::decrementCount()$/;"	f	class:Counter
+defaultBrowseFile	FilenameComponentExtra.h	/^    File defaultBrowseFile;$/;"	m	class:FilenameComponentExtra
+defaultClasses	ChuckTokeniser.cpp	/^static const char* const defaultClasses[] =$/;"	v	file:
+defaultUGens	ChuckTokeniser.cpp	/^static const char* const defaultUGens[] =$/;"	v	file:
+defaultValue	FloatParameter.h	/^    float defaultValue, value;$/;"	m	class:FloatParameter
+displayName	FloatParameter.h	/^    String displayName;$/;"	m	class:FloatParameter
+drawButtonBackground	CustomLookAndFeel.cpp	/^void CustomLookAndFeel::drawButtonBackground (Graphics& g, Button& button, const Colour& backgroundColour,$/;"	f	class:CustomLookAndFeel
+drawStretchableLayoutResizerBar	CustomLookAndFeel.cpp	/^void CustomLookAndFeel::drawStretchableLayoutResizerBar (Graphics& g, int \/*w*\/, int \/*h*\/, bool \/*isVerticalBar*\/,$/;"	f	class:CustomLookAndFeel
+drawTabButton	CustomLookAndFeel.cpp	/^void CustomLookAndFeel::drawTabButton (TabBarButton& button, Graphics& g, bool isMouseOver, bool isMouseDown)$/;"	f	class:CustomLookAndFeel
+drawTableHeaderBackground	CustomLookAndFeel.cpp	/^void CustomLookAndFeel::drawTableHeaderBackground (Graphics& g, TableHeaderComponent& header)$/;"	f	class:CustomLookAndFeel
+drawTableHeaderColumn	CustomLookAndFeel.cpp	/^void CustomLookAndFeel::drawTableHeaderColumn (Graphics& g, const String& columnName, int columnId,$/;"	f	class:CustomLookAndFeel
+drawTextEditorOutline	CustomLookAndFeel.cpp	/^void CustomLookAndFeel::drawTextEditorOutline (Graphics& g, int width, int height, TextEditor& textEditor)$/;"	f	class:CustomLookAndFeel
+duplicateTabComponent	CRTabbedComponentListener.h	/^    virtual void duplicateTabComponent(int tabIndex){};$/;"	f	class:CRTabbedComponentListener
+duplicateTabComponent	ChuckCodeManagerComponent.cpp	/^void ChuckCodeManagerComponent::duplicateTabComponent(int tabIndex){$/;"	f	class:ChuckCodeManagerComponent
+editor	CodeEditorD.h	/^    ScopedPointer<CodeEditorComponent> editor;$/;"	m	class:CodeEditorDemo
+editor	CodeEditorDemo.h	/^ScopedPointer<CodeEditorComponent> editor;$/;"	m	class:CodeEditorDemo
+editorArea	MainViewComponent.h	/^    EditorPanelUI editorArea;    $/;"	m	class:MainViewComponent
+eighthEvent	ulib_pluginhost.h	/^    Chuck_Event *eighthEvent;$/;"	m	class:PluginHostInfo
+eighthLength	ulib_pluginhost.h	/^    float eighthLength;$/;"	m	class:PluginHostInfo
+enforcedSuffix	FilenameComponentExtra.h	/^    String wildcard, enforcedSuffix, browseButtonText;$/;"	m	class:FilenameComponentExtra
+exponential	KnobInfo.h	/^    exponential$/;"	e	enum:knobType
+fileChooser	ChuckCodeModel.h	/^    ScopedPointer<FileChooser> fileChooser;$/;"	m	class:ChuckCodeModel
+fileChooser	CodeEditorD.h	/^    FilenameComponent fileChooser;$/;"	m	class:CodeEditorDemo
+fileChooser	CodeEditorDemo.h	/^FilenameComponent fileChooser;$/;"	m	class:CodeEditorDemo
+fileChooser	FileManager.h	/^    FileChooser* fileChooser;$/;"	m	class:FileManager
+fileDragEnter	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::fileDragEnter (const StringArray&, int, int)$/;"	f	class:FilenameComponentExtra
+fileDragExit	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::fileDragExit (const StringArray&)$/;"	f	class:FilenameComponentExtra
+fileName	ChuckCodeModel.h	/^    String fileName;$/;"	m	class:ChuckCodeModel
+fileName	FileManager.h	/^    String fileName;$/;"	m	class:FileManager
+filePath	ChuckCodeModel.h	/^    String filePath;$/;"	m	class:ChuckCodeModel
+filePath	FileManager.h	/^    String filePath;$/;"	m	class:FileManager
+filenameBox	FilenameComponentExtra.h	/^    ComboBox filenameBox;$/;"	m	class:FilenameComponentExtra
+filenameComponentChanged	ChuckCodeComponent.cpp	/^void ChuckCodeComponent::filenameComponentChanged (FilenameComponent*)$/;"	f	class:ChuckCodeComponent
+filesDropped	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::filesDropped (const StringArray& filenames, int, int)$/;"	f	class:FilenameComponentExtra
+findFileContainer	ChuckCodeModelManager.cpp	/^ChuckCodeModel* ChuckCodeModelManager::findFileContainer( int askedUniqueId )$/;"	f	class:ChuckCodeModelManager
+font	ParameterMapUI.h	/^    Font font;$/;"	m	class:ParameterMapUI
+fragment	PluginEditor.h	/^    String fragment[5]={"1.0","2.0","4.0","8.0","16.0"};$/;"	m	class:ChuckRacksAudioProcessorEditor
+fragment	SynthCode.h	/^    String fragment="4.0";$/;"	m	class:SynthCode
+fullText	ConsoleComponent.h	/^    String fullText;$/;"	m	class:ConsoleComponent
+fullText	ConsoleGlobal.h	/^    String fullText;$/;"	m	class:ConsoleGlobal
+g_fragment	PluginProcessor.h	/^    AudioParameterChoice* g_fragment;$/;"	m	class:ChuckRacksAudioProcessor
+g_hostInfo	ulib_pluginhost.cpp	/^PluginHostInfo *g_hostInfo = NULL;$/;"	v
+g_pluginParameters	ulib_PluginParameters.cpp	/^PluginParameters *g_pluginParameters = NULL;$/;"	v
+getCanBeEdited	ChuckCodeModel.h	/^    bool getCanBeEdited(){ return canBeEdited; };$/;"	f	class:ChuckCodeModel
+getChuckCodeModel	ChuckCodeComponent.h	/^    ChuckCodeModel* getChuckCodeModel(){return mChuckCodeModel;};$/;"	f	class:ChuckCodeComponent
+getChuckCodeModelManager	PluginProcessor.h	/^    ChuckCodeModelManager* getChuckCodeModelManager(){return chuckCodeModelManager;};$/;"	f	class:ChuckRacksAudioProcessor
+getCodeDocument	ChuckCodeModel.cpp	/^CodeDocument& ChuckCodeModel::getCodeDocument()$/;"	f	class:ChuckCodeModel
+getCount	Counter.cpp	/^int Counter::getCount()$/;"	f	class:Counter
+getCurrentFile	FilenameComponentExtra.cpp	/^File FilenameComponentExtra::getCurrentFile() const$/;"	f	class:FilenameComponentExtra
+getCurrentFileText	FilenameComponentExtra.cpp	/^String FilenameComponentExtra::getCurrentFileText() const$/;"	f	class:FilenameComponentExtra
+getCurrentProgram	PluginProcessor.cpp	/^int ChuckRacksAudioProcessor::getCurrentProgram()$/;"	f	class:ChuckRacksAudioProcessor
+getDefaultColourScheme	ChuckTokeniser.cpp	/^CodeEditorComponent::ColourScheme ChuckTokeniser::getDefaultColourScheme()$/;"	f	class:ChuckTokeniser
+getDefaultValue	FloatParameter.cpp	/^float FloatParameter::getDefaultValue() const$/;"	f	class:FloatParameter
+getInputChannelName	PluginProcessor.cpp	/^const String ChuckRacksAudioProcessor::getInputChannelName (int channelIndex) const$/;"	f	class:ChuckRacksAudioProcessor
+getLabel	FloatParameter.cpp	/^String FloatParameter::getLabel() const$/;"	f	class:FloatParameter
+getLocationToBrowse	FilenameComponentExtra.cpp	/^File FilenameComponentExtra::getLocationToBrowse()$/;"	f	class:FilenameComponentExtra
+getName	FloatParameter.cpp	/^String FloatParameter::getName(int \/* maximumStringLength *\/) const$/;"	f	class:FloatParameter
+getName	PluginProcessor.cpp	/^const String ChuckRacksAudioProcessor::getName() const$/;"	f	class:ChuckRacksAudioProcessor
+getNumFileContainers	ChuckCodeModelManager.h	/^    int getNumFileContainers(){return chuckCodeModelCollection.size();};$/;"	f	class:ChuckCodeModelManager
+getNumPrograms	PluginProcessor.cpp	/^int ChuckRacksAudioProcessor::getNumPrograms()$/;"	f	class:ChuckRacksAudioProcessor
+getNumRows	ParameterMapUI.cpp	/^int ParameterMapUI::getNumRows()$/;"	f	class:ParameterMapUI
+getOutputChannelName	PluginProcessor.cpp	/^const String ChuckRacksAudioProcessor::getOutputChannelName (int channelIndex) const$/;"	f	class:ChuckRacksAudioProcessor
+getParamValue	PluginProcessor.cpp	/^float ChuckRacksAudioProcessor::getParamValue(String paramName){$/;"	f	class:ChuckRacksAudioProcessor
+getParameterListModel	PluginProcessor.h	/^    std::map<int, String>* getParameterListModel(){return parameterListModel;};$/;"	f	class:ChuckRacksAudioProcessor
+getProcessor	PluginEditor.h	/^    ChuckRacksAudioProcessor * getProcessor() const$/;"	f	class:ChuckRacksAudioProcessorEditor
+getProcessor	PluginProcessor.h	/^    AudioProcessor * getProcessor() { return this; };$/;"	f	class:ChuckRacksAudioProcessor
+getProgramName	PluginProcessor.cpp	/^const String ChuckRacksAudioProcessor::getProgramName (int index)$/;"	f	class:ChuckRacksAudioProcessor
+getRecentlyUsedFilenames	FilenameComponentExtra.cpp	/^StringArray FilenameComponentExtra::getRecentlyUsedFilenames() const$/;"	f	class:FilenameComponentExtra
+getStateInformation	PluginProcessor.cpp	/^void ChuckRacksAudioProcessor::getStateInformation (MemoryBlock& destData)$/;"	f	class:ChuckRacksAudioProcessor
+getTailLengthSeconds	PluginProcessor.cpp	/^double ChuckRacksAudioProcessor::getTailLengthSeconds() const$/;"	f	class:ChuckRacksAudioProcessor
+getText	ParameterMapUI.cpp	/^String ParameterMapUI::getText (const int columnNumber, const int rowNumber) const$/;"	f	class:ParameterMapUI
+getUniqueFCId	ChuckCodeModel.h	/^    const int getUniqueFCId() { return uniqueFileContainerId; };$/;"	f	class:ChuckCodeModel
+getValue	FloatParameter.cpp	/^float FloatParameter::getValue() const$/;"	f	class:FloatParameter
+getValueForText	FloatParameter.cpp	/^float FloatParameter::getValueForText(const String& text) const$/;"	f	class:FloatParameter
+getValueFrom0to1	FloatParameter.cpp	/^float FloatParameter::getValueFrom0to1(){$/;"	f	class:FloatParameter
+halfLength	ulib_pluginhost.h	/^    float halfLength;$/;"	m	class:PluginHostInfo
+handleAsyncUpdate	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::handleAsyncUpdate()$/;"	f	class:FilenameComponentExtra
+hasEditor	PluginProcessor.cpp	/^bool ChuckRacksAudioProcessor::hasEditor() const$/;"	f	class:ChuckRacksAudioProcessor
+horizontalDividerBar	EditorPanelUI.h	/^    StretchableLayoutResizerBar horizontalDividerBar;$/;"	m	class:EditorPanelUI
+horizontalLayout	EditorPanelUI.h	/^    StretchableLayoutManager horizontalLayout;$/;"	m	class:EditorPanelUI
+incrementCount	Counter.cpp	/^void Counter::incrementCount()$/;"	f	class:Counter
+input_buffer	PluginProcessor.h	/^    float *input_buffer;$/;"	m	class:ChuckRacksAudioProcessor
+instance	ConsoleGlobal.cpp	/^ConsoleGlobal * ConsoleGlobal::instance = nullptr;$/;"	m	class:ConsoleGlobal	file:
+instance	ConsoleGlobal.h	/^static ConsoleGlobal * instance;$/;"	m	class:ConsoleGlobal
+instanceCounter	PluginProcessor.h	/^    SharedResourcePointer<Counter> instanceCounter;$/;"	m	class:ChuckRacksAudioProcessor
+isBusesLayoutSupported	PluginProcessor.cpp	/^bool ChuckRacksAudioProcessor::isBusesLayoutSupported (const BusesLayout& layouts) const$/;"	f	class:ChuckRacksAudioProcessor
+isDir	FilenameComponentExtra.h	/^    bool isDir, isSaving, isFileDragOver;$/;"	m	class:FilenameComponentExtra
+isFileDragOver	FilenameComponentExtra.h	/^    bool isDir, isSaving, isFileDragOver;$/;"	m	class:FilenameComponentExtra
+isInputChannelStereoPair	PluginProcessor.cpp	/^bool ChuckRacksAudioProcessor::isInputChannelStereoPair (int index) const$/;"	f	class:ChuckRacksAudioProcessor
+isInterestedInFileDrag	FilenameComponentExtra.cpp	/^bool FilenameComponentExtra::isInterestedInFileDrag (const StringArray&)$/;"	f	class:FilenameComponentExtra
+isLive	SynthCode.h	/^    String isLive=livemode;$/;"	m	class:SynthCode
+isLiveButton	PluginEditor.h	/^    ToggleButton isLiveButton;$/;"	m	class:ChuckRacksAudioProcessorEditor
+isOutputChannelStereoPair	PluginProcessor.cpp	/^bool ChuckRacksAudioProcessor::isOutputChannelStereoPair (int index) const$/;"	f	class:ChuckRacksAudioProcessor
+isSaving	FilenameComponentExtra.h	/^    bool isDir, isSaving, isFileDragOver;$/;"	m	class:FilenameComponentExtra
+keywords	ChuckTokeniser.cpp	/^static const char* const keywords[] =$/;"	v	file:
+knobId	KnobInfo.h	/^    int knobId;$/;"	m	struct:KnobInfo
+knobType	KnobInfo.h	/^enum knobType$/;"	g
+lastBarStart	PluginProcessor.h	/^    float lastBarStart;$/;"	m	class:ChuckRacksAudioProcessor
+lastBarStartPosition	ulib_pluginhost.h	/^    float lastBarStartPosition;$/;"	m	class:PluginHostInfo
+lastFileLoaded	ChuckCodeModel.h	/^    String lastFileLoaded;$/;"	m	class:ChuckCodeModel
+lastFileLoaded	PluginEditor.h	/^    String lastFileLoaded;$/;"	m	class:ChuckRacksAudioProcessorEditor
+lastFilename	FilenameComponentExtra.h	/^    String lastFilename;$/;"	m	class:FilenameComponentExtra
+lastPosInfo	PluginProcessor.h	/^    AudioPlayHead::CurrentPositionInfo lastPosInfo;$/;"	m	class:ChuckRacksAudioProcessor
+linear	KnobInfo.h	/^    linear=0,$/;"	e	enum:knobType
+listeners	CRTabbedComponent.h	/^    ListenerList<CRTabbedComponentListener> listeners;$/;"	m	class:CRTabbedComponent
+listeners	FilenameComponentExtra.h	/^    ListenerList <FilenameComponentListener> listeners;$/;"	m	class:FilenameComponentExtra
+livemode	SynthCode.h	/^    String livemode="PluginHost.nextSixteenth()=>now;\\n";$/;"	m	class:SynthCode
+logarithmic	KnobInfo.h	/^    logarithmic,$/;"	e	enum:knobType
+lookAndFeelChanged	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::lookAndFeelChanged()$/;"	f	class:FilenameComponentExtra
+luaTokeniser	CodeEditorDemo.h	/^LuaTokeniser luaTokeniser;$/;"	m	class:CodeEditorDemo
+mChuckCodeModel	ChuckCodeComponent.h	/^    ChuckCodeModel* mChuckCodeModel;$/;"	m	class:ChuckCodeComponent
+mCount	Counter.h	/^    int mCount;$/;"	m	class:Counter
+mModelManager	ChuckCodeManagerComponent.h	/^    ChuckCodeModelManager* mModelManager;$/;"	m	class:ChuckCodeManagerComponent
+mainView	PluginEditor.h	/^    MainViewComponent mainView;$/;"	m	class:ChuckRacksAudioProcessorEditor
+mapLabel	ParameterMapUI.h	/^    Label mapLabel;$/;"	m	class:EditableTextCustomComponent
+mapNewParam	PluginProcessor.cpp	/^bool ChuckRacksAudioProcessor::mapNewParam(){$/;"	f	class:ChuckRacksAudioProcessor
+maxRecentFiles	FilenameComponentExtra.h	/^    int maxRecentFiles;$/;"	m	class:FilenameComponentExtra
+midiEvent	ulib_pluginhost.h	/^    Chuck_Event *midiEvent;$/;"	m	class:PluginHostInfo
+midiInputBuffer	PluginProcessor.h	/^    MidiBuffer midiInputBuffer;$/;"	m	class:ChuckRacksAudioProcessor
+midiInputBufferP	ulib_pluginhost.h	/^    MidiBuffer* midiInputBufferP;$/;"	m	class:PluginHostInfo
+midiOutputBuffer	PluginProcessor.h	/^    MidiBuffer midiOutputBuffer;$/;"	m	class:ChuckRacksAudioProcessor
+midiOutputBufferP	ulib_pluginhost.h	/^    MidiBuffer* midiOutputBufferP;$/;"	m	class:PluginHostInfo
+midiOutputBufferPos	ulib_pluginhost.h	/^    int midiOutputBufferPos;$/;"	m	class:PluginHostInfo
+mode	PluginEditor.h	/^    String mode[7]={"i","ii","iii","iv","v","vi","vii"};$/;"	m	class:ChuckRacksAudioProcessorEditor
+mode	SynthCode.h	/^    String mode="i";$/;"	m	class:SynthCode
+nextBarEvent	ulib_pluginhost.h	/^    Chuck_Event *nextBarEvent;$/;"	m	class:PluginHostInfo
+noexcept	ChuckTokeniser.h	/^    static bool isReservedKeyword (const String& token) noexcept;$/;"	m	class:ChuckTokeniser
+nolivemode	SynthCode.h	/^    String nolivemode="\\n";$/;"	m	class:SynthCode
+numRows	ParameterMapUI.h	/^    int numRows;$/;"	m	class:ParameterMapUI
+openBrowser	ChuckCodeModel.cpp	/^void ChuckCodeModel::openBrowser()$/;"	f	class:ChuckCodeModel
+openBrowser	FileManager.cpp	/^void FileManager::openBrowser()$/;"	f	class:FileManager
+openFileButton	ChuckCodeComponent.h	/^    ScopedPointer<TextButton> openFileButton;$/;"	m	class:ChuckCodeComponent
+openParameterListButton	PluginEditor.h	/^    ScopedPointer<DrawableButton> openParameterListButton;$/;"	m	class:ChuckRacksAudioProcessorEditor
+output_buffer	PluginProcessor.h	/^    float *output_buffer;$/;"	m	class:ChuckRacksAudioProcessor
+override	CRTabbedComponent.h	/^    void popupMenuClickOnTab (int tabIndex, const String &tabName) override;$/;"	m	class:CRTabbedComponent
+override	ChuckCodeComponent.h	/^    void buttonClicked(Button* buttonThatWasPressed) override;$/;"	m	class:ChuckCodeComponent
+override	ChuckCodeComponent.h	/^    void filenameComponentChanged (FilenameComponent*) override;$/;"	m	class:ChuckCodeComponent
+override	ChuckCodeComponent.h	/^    void paint (Graphics& g) override;$/;"	m	class:ChuckCodeComponent
+override	ChuckCodeComponent.h	/^    void resized() override;$/;"	m	class:ChuckCodeComponent
+override	ChuckCodeManagerComponent.h	/^    void duplicateTabComponent(int tabIndex) override;$/;"	m	class:ChuckCodeManagerComponent
+override	ChuckCodeManagerComponent.h	/^    void paint (Graphics&) override;$/;"	m	class:ChuckCodeManagerComponent
+override	ChuckCodeManagerComponent.h	/^    void removeTabComponent(int tabIndex) override;$/;"	m	class:ChuckCodeManagerComponent
+override	ChuckCodeManagerComponent.h	/^    void resized() override;$/;"	m	class:ChuckCodeManagerComponent
+override	ChuckTokeniser.h	/^    CodeEditorComponent::ColourScheme getDefaultColourScheme() override;$/;"	m	class:ChuckTokeniser
+override	ChuckTokeniser.h	/^    int readNextToken (CodeDocument::Iterator&) override;$/;"	m	class:ChuckTokeniser
+override	ConsoleComponent.h	/^    void paint (Graphics& g) override;$/;"	m	class:ConsoleComponent
+override	ConsoleComponent.h	/^    void resized() override;$/;"	m	class:ConsoleComponent
+override	ConsoleGlobal.h	/^    void paint (Graphics& g) override;$/;"	m	class:ConsoleGlobal
+override	ConsoleGlobal.h	/^    void resized() override;$/;"	m	class:ConsoleGlobal
+override	CustomLookAndFeel.h	/^                                          bool isMouseOver, bool isMouseDragging) override;$/;"	m	class:CustomLookAndFeel
+override	CustomLookAndFeel.h	/^                                int columnFlags) override;$/;"	m	class:CustomLookAndFeel
+override	CustomLookAndFeel.h	/^                               bool isMouseOverButton, bool isButtonDown) override;$/;"	m	class:CustomLookAndFeel
+override	CustomLookAndFeel.h	/^     void drawTabButton (TabBarButton&, Graphics&, bool isMouseOver, bool isMouseDown) override;$/;"	m	class:CustomLookAndFeel
+override	CustomLookAndFeel.h	/^    void drawTableHeaderBackground (Graphics& g, TableHeaderComponent& header) override;$/;"	m	class:CustomLookAndFeel
+override	CustomLookAndFeel.h	/^    void drawTextEditorOutline  (Graphics& g, int width, int height, TextEditor& textEditor) override;$/;"	m	class:CustomLookAndFeel
+override	EditorPanelUI.h	/^    void paint (Graphics&) override;$/;"	m	class:EditorPanelUI
+override	EditorPanelUI.h	/^    void resized() override;$/;"	m	class:EditorPanelUI
+override	FilenameComponentExtra.h	/^    KeyboardFocusTraverser* createFocusTraverser() override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    bool isInterestedInFileDrag (const StringArray&) override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void buttonClicked (Button*) override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void comboBoxChanged (ComboBox*) override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void fileDragEnter (const StringArray&, int, int) override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void fileDragExit (const StringArray&) override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void filesDropped (const StringArray&, int, int) override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void handleAsyncUpdate() override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void lookAndFeelChanged() override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void paintOverChildren (Graphics&) override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void resized() override;$/;"	m	class:FilenameComponentExtra
+override	FilenameComponentExtra.h	/^    void setTooltip (const String& newTooltip) override;$/;"	m	class:FilenameComponentExtra
+override	FloatParameter.h	/^    String getLabel() const override;$/;"	m	class:FloatParameter
+override	FloatParameter.h	/^    String getName(int \/* maximumStringLength *\/) const override;$/;"	m	class:FloatParameter
+override	FloatParameter.h	/^    float getDefaultValue() const override;$/;"	m	class:FloatParameter
+override	FloatParameter.h	/^    float getValue() const override;$/;"	m	class:FloatParameter
+override	FloatParameter.h	/^    float getValueForText(const String& text) const override;$/;"	m	class:FloatParameter
+override	FloatParameter.h	/^    void setValue(float newValue) override;$/;"	m	class:FloatParameter
+override	ParameterMapUI.h	/^                                        Component* existingComponentToUpdate) override;$/;"	m	class:ParameterMapUI
+override	ParameterMapUI.h	/^                             bool rowIsSelected) override;$/;"	m	class:ParameterMapUI
+override	ParameterMapUI.h	/^                    int height, bool rowIsSelected) override;$/;"	m	class:ParameterMapUI
+override	ParameterMapUI.h	/^    int getNumRows () override;$/;"	m	class:ParameterMapUI
+override	ParameterMapUI.h	/^    void buttonClicked (Button*) override;$/;"	m	class:ParameterMapUI
+override	ParameterMapUI.h	/^    void paint (Graphics &) override;$/;"	m	class:ParameterMapUI
+override	ParameterMapUI.h	/^    void resized() override;$/;"	m	class:ParameterMapUI
+override	PluginEditor.h	/^    void buttonClicked(Button* buttonThatWasPressed) override;$/;"	m	class:ChuckRacksAudioProcessorEditor
+override	PluginEditor.h	/^    void paint (Graphics& g) override;$/;"	m	class:ChuckRacksAudioProcessorEditor
+override	PluginEditor.h	/^    void resized() override;$/;"	m	class:ChuckRacksAudioProcessorEditor
+override	PluginEditor.h	/^    void timerCallback() override;$/;"	m	class:ChuckRacksAudioProcessorEditor
+override	PluginProcessor.h	/^     bool isBusesLayoutSupported (const BusesLayout& layouts) const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    AudioProcessorEditor* createEditor() override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    bool acceptsMidi() const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    bool hasEditor() const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    bool isInputChannelStereoPair (int index) const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    bool isOutputChannelStereoPair (int index) const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    bool producesMidi() const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    const String getInputChannelName (int channelIndex) const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    const String getName() const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    const String getOutputChannelName (int channelIndex) const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    const String getProgramName (int index) override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    double getTailLengthSeconds() const override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    int getCurrentProgram() override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    int getNumPrograms() override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    void changeProgramName (int index, const String& newName) override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    void getStateInformation (MemoryBlock& destData) override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    void prepareToPlay (double sampleRate, int samplesPerBlock) override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    void processBlock (AudioSampleBuffer&, MidiBuffer&) override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    void releaseResources() override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    void setCurrentProgram (int index) override;$/;"	m	class:ChuckRacksAudioProcessor
+override	PluginProcessor.h	/^    void setStateInformation (const void* data, int sizeInBytes) override;$/;"	m	class:ChuckRacksAudioProcessor
+owner	ParameterMapUI.h	/^    ParameterMapUI& owner;$/;"	m	class:EditableTextCustomComponent
+paint	ChuckCodeComponent.cpp	/^void ChuckCodeComponent::paint( Graphics& g )$/;"	f	class:ChuckCodeComponent
+paint	ChuckCodeManagerComponent.cpp	/^void ChuckCodeManagerComponent::paint (Graphics& g)$/;"	f	class:ChuckCodeManagerComponent
+paint	ConsoleComponent.cpp	/^void ConsoleComponent::paint (Graphics& g){$/;"	f	class:ConsoleComponent
+paint	ConsoleGlobal.cpp	/^void ConsoleGlobal::paint (Graphics& g){$/;"	f	class:ConsoleGlobal
+paint	EditorPanelUI.cpp	/^void EditorPanelUI::paint (Graphics& g)$/;"	f	class:EditorPanelUI
+paint	MainViewComponent.cpp	/^void MainViewComponent::paint(Graphics& g)$/;"	f	class:MainViewComponent
+paint	ParameterMapUI.cpp	/^void ParameterMapUI::paint (Graphics& g){$/;"	f	class:ParameterMapUI
+paint	PluginEditor.cpp	/^void ChuckRacksAudioProcessorEditor::paint (Graphics& g)$/;"	f	class:ChuckRacksAudioProcessorEditor
+paintCell	ParameterMapUI.cpp	/^void ParameterMapUI::paintCell (Graphics& g, int rowNumber, int columnId,$/;"	f	class:ParameterMapUI
+paintOverChildren	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::paintOverChildren (Graphics& g)$/;"	f	class:FilenameComponentExtra
+paintRowBackground	ParameterMapUI.cpp	/^void ParameterMapUI::paintRowBackground (Graphics& g, int rowNumber,$/;"	f	class:ParameterMapUI
+parameterListModel	ParameterMapUI.h	/^    std::map<int, String>* parameterListModel;$/;"	m	class:ParameterMapUI
+parameterListModel	PluginProcessor.h	/^    std::map<int, String>* parameterListModel;$/;"	m	class:ChuckRacksAudioProcessor
+parameterUI	MainViewComponent.h	/^    ParameterMapUI parameterUI;$/;"	m	class:MainViewComponent
+parseNumber	ChuckTokeniser.cpp	/^    static int parseNumber (Iterator& source)$/;"	f	struct:ChuckTokeniserFunctions
+playEvent	ulib_pluginhost.h	/^    Chuck_Event *playEvent;$/;"	m	class:PluginHostInfo
+pluginParameters_query	ulib_PluginParameters.cpp	/^t_CKBOOL pluginParameters_query( Chuck_DL_Query * QUERY)$/;"	f
+pluginhost_query	ulib_pluginhost.cpp	/^t_CKBOOL pluginhost_query( Chuck_DL_Query * QUERY )$/;"	f
+popupMenuClickOnTab	CRTabbedComponent.cpp	/^void CRTabbedComponent::popupMenuClickOnTab (int tabIndex, const String &tabName){$/;"	f	class:CRTabbedComponent
+position	ulib_pluginhost.h	/^    float position;$/;"	m	class:PluginHostInfo
+positionInBar	ulib_pluginhost.h	/^    float positionInBar;$/;"	m	class:PluginHostInfo
+positionInBeat	ulib_pluginhost.h	/^    float positionInBeat;$/;"	m	class:PluginHostInfo
+prepareToPlay	PluginProcessor.cpp	/^void ChuckRacksAudioProcessor::prepareToPlay (double sampleRate, int samplesPerBlock)$/;"	f	class:ChuckRacksAudioProcessor
+previousBar	ulib_pluginhost.h	/^    float previousBar;$/;"	m	class:PluginHostInfo
+previousTempo	ulib_pluginhost.h	/^    float previousTempo;$/;"	m	class:PluginHostInfo
+processBlock	PluginProcessor.cpp	/^void ChuckRacksAudioProcessor::processBlock (AudioSampleBuffer& buffer, MidiBuffer& midiMessages)$/;"	f	class:ChuckRacksAudioProcessor
+processor	ChuckCodeModel.h	/^    AudioProcessor* processor;$/;"	m	class:ChuckCodeModel
+processor	ChuckCodeModelManager.h	/^    AudioProcessor* processor;$/;"	m	class:ChuckCodeModelManager
+processor	MainViewComponent.h	/^    ChuckRacksAudioProcessor* processor;$/;"	m	class:MainViewComponent
+processor	ParameterMapUI.h	/^    ChuckRacksAudioProcessor* processor;$/;"	m	class:ParameterMapUI
+producesMidi	PluginProcessor.cpp	/^bool ChuckRacksAudioProcessor::producesMidi() const$/;"	f	class:ChuckRacksAudioProcessor
+quarterEvent	ulib_pluginhost.h	/^    Chuck_Event *quarterEvent;$/;"	m	class:PluginHostInfo
+quarterLength	ulib_pluginhost.h	/^    float quarterLength;$/;"	m	class:PluginHostInfo
+range	FloatParameter.h	/^    NormalisableRange<float> range;$/;"	m	class:FloatParameter
+readNextToken	ChuckTokeniser.cpp	/^    static int readNextToken (Iterator& source)$/;"	f	struct:ChuckTokeniserFunctions
+readNextToken	ChuckTokeniser.cpp	/^int ChuckTokeniser::readNextToken (CodeDocument::Iterator& source)$/;"	f	class:ChuckTokeniser
+refresh	MainViewComponent.cpp	/^void MainViewComponent::refresh(bool paramListVisible)$/;"	f	class:MainViewComponent
+refreshComponentForCell	ParameterMapUI.cpp	/^Component* ParameterMapUI::refreshComponentForCell (int rowNumber, int columnId, bool \/*isRowSelected*\/,$/;"	f	class:ParameterMapUI
+releaseResources	PluginProcessor.cpp	/^void ChuckRacksAudioProcessor::releaseResources()$/;"	f	class:ChuckRacksAudioProcessor
+removeAllShreds	ChuckCodeModel.cpp	/^void ChuckCodeModel::removeAllShreds()$/;"	f	class:ChuckCodeModel
+removeAllShreds	ChuckCodeModelManager.cpp	/^void ChuckCodeModelManager::removeAllShreds()$/;"	f	class:ChuckCodeModelManager
+removeAllShredsButton	PluginEditor.h	/^    ScopedPointer<DrawableButton> removeAllShredsButton;$/;"	m	class:ChuckRacksAudioProcessorEditor
+removeChuckCodeComponent	ChuckCodeManagerComponent.cpp	/^void ChuckCodeManagerComponent::removeChuckCodeComponent(int tabIndex){$/;"	f	class:ChuckCodeManagerComponent
+removeFileContainer	ChuckCodeModelManager.cpp	/^void ChuckCodeModelManager::removeFileContainer( ChuckCodeModel* fc )$/;"	f	class:ChuckCodeModelManager
+removeLastShred	ChuckCodeModel.cpp	/^void ChuckCodeModel::removeLastShred()$/;"	f	class:ChuckCodeModel
+removeListener	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::removeListener (FilenameComponentListener* const listener)$/;"	f	class:FilenameComponentExtra
+removeShred	ChuckCodeModel.cpp	/^void ChuckCodeModel::removeShred(int idNumber)$/;"	f	class:ChuckCodeModel
+removeShredButton	ChuckCodeComponent.h	/^    ScopedPointer<DrawableButton> removeShredButton;$/;"	m	class:ChuckCodeComponent
+removeTabComponent	CRTabbedComponentListener.h	/^    virtual void removeTabComponent(int tabIndex){};$/;"	f	class:CRTabbedComponentListener
+removeTabComponent	ChuckCodeManagerComponent.cpp	/^void ChuckCodeManagerComponent::removeTabComponent(int tabIndex){$/;"	f	class:ChuckCodeManagerComponent
+replaceShred	ChuckCodeModel.cpp	/^void ChuckCodeModel::replaceShred()$/;"	f	class:ChuckCodeModel
+resized	ChuckCodeComponent.cpp	/^void ChuckCodeComponent::resized(){$/;"	f	class:ChuckCodeComponent
+resized	ChuckCodeManagerComponent.cpp	/^void ChuckCodeManagerComponent::resized()$/;"	f	class:ChuckCodeManagerComponent
+resized	ConsoleComponent.cpp	/^void ConsoleComponent::resized(){$/;"	f	class:ConsoleComponent
+resized	ConsoleGlobal.cpp	/^void ConsoleGlobal::resized(){$/;"	f	class:ConsoleGlobal
+resized	EditorPanelUI.cpp	/^void EditorPanelUI::resized()$/;"	f	class:EditorPanelUI
+resized	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::resized()$/;"	f	class:FilenameComponentExtra
+resized	MainViewComponent.cpp	/^void MainViewComponent::resized()$/;"	f	class:MainViewComponent
+resized	ParameterMapUI.cpp	/^void ParameterMapUI::resized(){$/;"	f	class:ParameterMapUI
+resized	PluginEditor.cpp	/^void ChuckRacksAudioProcessorEditor::resized()$/;"	f	class:ChuckRacksAudioProcessorEditor
+row	ParameterMapUI.h	/^    int row, columnId;$/;"	m	class:EditableTextCustomComponent
+sampleRate	ulib_pluginhost.h	/^    float sampleRate;$/;"	m	class:PluginHostInfo
+saveFileButton	ChuckCodeComponent.h	/^    ScopedPointer<TextButton> saveFileButton;$/;"	m	class:ChuckCodeComponent
+scaleBox	PluginEditor.h	/^    ComboBox scaleBox;$/;"	m	class:ChuckRacksAudioProcessorEditor
+setBrowseButtonText	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::setBrowseButtonText (const String& newBrowseButtonText)$/;"	f	class:FilenameComponentExtra
+setCanBeEdited	ChuckCodeModel.h	/^    void setCanBeEdited( bool shouldEdit ){ canBeEdited = shouldEdit; };$/;"	f	class:ChuckCodeModel
+setConsoleComponent	ConsoleComponent.cpp	/^void ConsoleComponent::setConsoleComponent(TextEditor * console)$/;"	f	class:ConsoleComponent
+setConsoleComponent	ConsoleGlobal.cpp	/^void ConsoleGlobal::setConsoleComponent(TextEditor * console)$/;"	f	class:ConsoleGlobal
+setCurrentFile	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::setCurrentFile (File newFile,$/;"	f	class:FilenameComponentExtra
+setCurrentProgram	PluginProcessor.cpp	/^void ChuckRacksAudioProcessor::setCurrentProgram (int index)$/;"	f	class:ChuckRacksAudioProcessor
+setDefaultBrowseTarget	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::setDefaultBrowseTarget (const File& newDefaultDirectory)$/;"	f	class:FilenameComponentExtra
+setFilenameIsEditable	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::setFilenameIsEditable (const bool shouldBeEditable)$/;"	f	class:FilenameComponentExtra
+setMaxNumberOfRecentFiles	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::setMaxNumberOfRecentFiles (const int newMaximum)$/;"	f	class:FilenameComponentExtra
+setName	FloatParameter.cpp	/^void FloatParameter::setName(String newName){$/;"	f	class:FloatParameter
+setRecentlyUsedFilenames	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::setRecentlyUsedFilenames (const StringArray& filenames)$/;"	f	class:FilenameComponentExtra
+setRowAndColumn	ParameterMapUI.h	/^    void setRowAndColumn (const int newRow, const int newColumn)$/;"	f	class:EditableTextCustomComponent
+setStateInformation	PluginProcessor.cpp	/^void ChuckRacksAudioProcessor::setStateInformation (const void* data, int sizeInBytes)$/;"	f	class:ChuckRacksAudioProcessor
+setTempo	ulib_pluginhost.cpp	/^void PluginHostInfo::setTempo(float newTempo)$/;"	f	class:PluginHostInfo
+setText	ParameterMapUI.cpp	/^void ParameterMapUI::setText (const int columnNumber, const int rowNumber, const String& newText)$/;"	f	class:ParameterMapUI
+setTooltip	FilenameComponentExtra.cpp	/^void FilenameComponentExtra::setTooltip (const String& newTooltip)$/;"	f	class:FilenameComponentExtra
+setValue	FloatParameter.cpp	/^void FloatParameter::setValue(float newValue)$/;"	f	class:FloatParameter
+shredIds	ChuckCodeModel.h	/^    Array<int> shredIds;$/;"	m	class:ChuckCodeModel
+sixteenthEvent	ulib_pluginhost.h	/^    Chuck_Event *sixteenthEvent;$/;"	m	class:PluginHostInfo
+sixteenthLength	ulib_pluginhost.h	/^    float sixteenthLength;$/;"	m	class:PluginHostInfo
+stopEvent	ulib_pluginhost.h	/^    Chuck_Event *stopEvent;$/;"	m	class:PluginHostInfo
+syncBox	PluginEditor.h	/^    ComboBox syncBox;$/;"	m	class:ChuckRacksAudioProcessorEditor
+synthCode	PluginEditor.h	/^    SynthCode synthCode;$/;"	m	class:ChuckRacksAudioProcessorEditor
+tabView	ChuckCodeManagerComponent.h	/^    CRTabbedComponent tabView;$/;"	m	class:ChuckCodeManagerComponent
+table	ParameterMapUI.h	/^    TableListBox table;$/;"	m	class:ParameterMapUI
+tempMidiBuffer	ulib_pluginhost.h	/^    MidiBuffer* tempMidiBuffer;$/;"	m	class:PluginHostInfo
+tempo	ulib_pluginhost.h	/^    float tempo;$/;"	m	class:PluginHostInfo
+thisInstanceCount	PluginProcessor.h	/^    int thisInstanceCount;$/;"	m	class:ChuckRacksAudioProcessor
+timeSigDenominator	ulib_pluginhost.h	/^    int timeSigDenominator;$/;"	m	class:PluginHostInfo
+timeSigNumerator	ulib_pluginhost.h	/^    int timeSigNumerator;$/;"	m	class:PluginHostInfo
+timerCallback	PluginEditor.cpp	/^void ChuckRacksAudioProcessorEditor::timerCallback()$/;"	f	class:ChuckRacksAudioProcessorEditor
+toggleParamListVisibility	MainViewComponent.cpp	/^void MainViewComponent::toggleParamListVisibility()$/;"	f	class:MainViewComponent
+tokenType_bracket	ChuckTokeniser.h	/^        tokenType_bracket,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_comment	ChuckTokeniser.h	/^        tokenType_comment,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_customClass	ChuckTokeniser.h	/^        tokenType_customClass,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_defaultClass	ChuckTokeniser.h	/^        tokenType_defaultClass,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_defaultUGen	ChuckTokeniser.h	/^        tokenType_defaultUGen,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_error	ChuckTokeniser.h	/^        tokenType_error = 0,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_float	ChuckTokeniser.h	/^        tokenType_float,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_identifier	ChuckTokeniser.h	/^        tokenType_identifier,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_integer	ChuckTokeniser.h	/^        tokenType_integer,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_keyword	ChuckTokeniser.h	/^        tokenType_keyword,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_notReserved	ChuckTokeniser.h	/^        tokenType_notReserved$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_operator	ChuckTokeniser.h	/^        tokenType_operator,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_preprocessor	ChuckTokeniser.h	/^        tokenType_preprocessor,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_punctuation	ChuckTokeniser.h	/^        tokenType_punctuation,$/;"	e	enum:ChuckTokeniser::TokenType
+tokenType_string	ChuckTokeniser.h	/^        tokenType_string,$/;"	e	enum:ChuckTokeniser::TokenType
+type	KnobInfo.h	/^    knobType type;$/;"	m	struct:KnobInfo
+ulib_RacksBasicLib_hpp	ulib_RacksBasicLib.h	/^#define ulib_RacksBasicLib_hpp$/;"	d
+uniqueFileContainerId	ChuckCodeModel.h	/^    int uniqueFileContainerId;$/;"	m	class:ChuckCodeModel
+updateParamMap	ParameterMapUI.cpp	/^void ParameterMapUI::updateParamMap(int num){$/;"	f	class:ParameterMapUI
+updateParamNames	PluginProcessor.cpp	/^void ChuckRacksAudioProcessor::updateParamNames(int num, String newText){$/;"	f	class:ChuckRacksAudioProcessor
+updateText	ConsoleComponent.cpp	/^void ConsoleComponent::updateText()$/;"	f	class:ConsoleComponent
+updateText	ConsoleGlobal.cpp	/^void ConsoleGlobal::updateText()$/;"	f	class:ConsoleGlobal
+value	FloatParameter.h	/^    float defaultValue, value;$/;"	m	class:FloatParameter
+value01	KnobInfo.h	/^    float value01;$/;"	m	struct:KnobInfo
+valueConverted	KnobInfo.h	/^    float valueConverted;$/;"	m	struct:KnobInfo
+verticalDividerBar	MainViewComponent.h	/^    StretchableLayoutResizerBar verticalDividerBar;$/;"	m	class:MainViewComponent
+verticalLayout	MainViewComponent.h	/^    StretchableLayoutManager verticalLayout;$/;"	m	class:MainViewComponent
+wasPlaying	ulib_pluginhost.h	/^    bool wasPlaying;$/;"	m	class:PluginHostInfo
+wholeLength	ulib_pluginhost.h	/^    float wholeLength;$/;"	m	class:PluginHostInfo
+wildcard	FilenameComponentExtra.h	/^    String wildcard, enforcedSuffix, browseButtonText;$/;"	m	class:FilenameComponentExtra
+~CRTabbedComponent	CRTabbedComponent.cpp	/^CRTabbedComponent::~CRTabbedComponent()$/;"	f	class:CRTabbedComponent
+~CRTabbedComponentListener	CRTabbedComponentListener.h	/^    virtual ~CRTabbedComponentListener(){};$/;"	f	class:CRTabbedComponentListener
+~ChuckCodeComponent	ChuckCodeComponent.cpp	/^ChuckCodeComponent::~ChuckCodeComponent()$/;"	f	class:ChuckCodeComponent
+~ChuckCodeManagerComponent	ChuckCodeManagerComponent.cpp	/^ChuckCodeManagerComponent::~ChuckCodeManagerComponent()$/;"	f	class:ChuckCodeManagerComponent
+~ChuckCodeModel	ChuckCodeModel.cpp	/^ChuckCodeModel::~ChuckCodeModel(){$/;"	f	class:ChuckCodeModel
+~ChuckCodeModelManager	ChuckCodeModelManager.cpp	/^ChuckCodeModelManager::~ChuckCodeModelManager()$/;"	f	class:ChuckCodeModelManager
+~ChuckRacksAudioProcessor	PluginProcessor.cpp	/^ChuckRacksAudioProcessor::~ChuckRacksAudioProcessor()$/;"	f	class:ChuckRacksAudioProcessor
+~ChuckRacksAudioProcessorEditor	PluginEditor.cpp	/^ChuckRacksAudioProcessorEditor::~ChuckRacksAudioProcessorEditor()$/;"	f	class:ChuckRacksAudioProcessorEditor
+~ChuckTokeniser	ChuckTokeniser.cpp	/^ChuckTokeniser::~ChuckTokeniser() {}$/;"	f	class:ChuckTokeniser
+~CodeEditorDemo	CodeEditorD.h	/^    ~CodeEditorDemo()$/;"	f	class:CodeEditorDemo
+~CodeEditorDemo	CodeEditorDemo.h	/^    ~CodeEditorDemo()$/;"	f	class:CodeEditorDemo
+~ConsoleComponent	ConsoleComponent.cpp	/^ConsoleComponent::~ConsoleComponent(){$/;"	f	class:ConsoleComponent
+~ConsoleGlobal	ConsoleGlobal.cpp	/^ConsoleGlobal::~ConsoleGlobal(){$/;"	f	class:ConsoleGlobal
+~Counter	Counter.cpp	/^Counter::~Counter()$/;"	f	class:Counter
+~CustomLookAndFeel	CustomLookAndFeel.cpp	/^CustomLookAndFeel::~CustomLookAndFeel()$/;"	f	class:CustomLookAndFeel
+~EditorPanelUI	EditorPanelUI.cpp	/^EditorPanelUI::~EditorPanelUI()$/;"	f	class:EditorPanelUI
+~FilenameComponentExtra	FilenameComponentExtra.cpp	/^FilenameComponentExtra::~FilenameComponentExtra()$/;"	f	class:FilenameComponentExtra
+~FloatParameter	FloatParameter.cpp	/^FloatParameter::~FloatParameter(){$/;"	f	class:FloatParameter
+~LookAndFeelMethods	FilenameComponentExtra.h	/^        virtual ~LookAndFeelMethods() {}$/;"	f	struct:FilenameComponentExtra::LookAndFeelMethods
+~MainViewComponent	MainViewComponent.cpp	/^MainViewComponent::~MainViewComponent()$/;"	f	class:MainViewComponent
+~ParameterMapUI	ParameterMapUI.cpp	/^ParameterMapUI::~ParameterMapUI(){$/;"	f	class:ParameterMapUI
+~PluginParameters	ulib_PluginParameters.cpp	/^PluginParameters::~PluginParameters()$/;"	f	class:PluginParameters
